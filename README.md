@@ -1,3 +1,6 @@
+# SWS Intelligent Kiosk
+Adaptierte Version des Cognitive Services Example von Microsoft (MJ)
+
 # Intelligent Kiosk Sample
 The Intelligent Kiosk Sample is a collection of demos showcasing workflows and experiences built on top of the Microsoft Cognitive Services. Most of the experiences are hands-free and autonomous, using the human faces in front of a web camera as the main form of input (thus the word "kiosk" in the name).
 
