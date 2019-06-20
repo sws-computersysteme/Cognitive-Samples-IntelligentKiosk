@@ -153,7 +153,7 @@ namespace IntelligentKioskSample.Views
 
         private async Task InitializeTrainingApi()
         {
-            trainingApi = new CustomVisionTrainingClient { Endpoint = "https://southcentralus.api.cognitive.microsoft.com", ApiKey = SettingsHelper.Instance.CustomVisionTrainingApiKey };
+            trainingApi = new CustomVisionTrainingClient { Endpoint = "https://westeurope.api.cognitive.microsoft.com", ApiKey = SettingsHelper.Instance.CustomVisionTrainingApiKey };
             this.addProjectButton.IsEnabled = true;
             this.trainButton.IsEnabled = true;
             this.exportButton.IsEnabled = true;
